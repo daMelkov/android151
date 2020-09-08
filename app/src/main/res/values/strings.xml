@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MelkovHw151</string>
+    <string name="synchronize">Синхронизация</string>
+    <string name="morning_server">Утренний сервер (6:00…13:59)</string>
+    <string name="day_server">Дневной сервер (14:00…14:59)</string>
+    <string name="evening_server">Вечерний сервер (15:00…6:00)</string>
+    <string name="Launch">Запуск</string>
 </resources>
